@@ -1,0 +1,10 @@
+pandas
+numpy 
+pydub
+scipy
+noisereduce
+sounddevice
+scikit-learn
+librosa
+soundfile
+
